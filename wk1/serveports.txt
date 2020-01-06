@@ -1,0 +1,22 @@
+1. What is the definition of server port?
+In computer networking, port is a communication endpoint.
+Physical as well as wireless connections are terminated at ports of hardware devices.
+At the software level, within an operating system, port is a logical construct that identifies as special process or a type of network service
+
+2. What is server port range?
+A port number is a 16-bit unassigned integer, thus ranging from 0 to 65535
+
+3. How many bits does number above represent?
+16 bits
+
+4. State 10 common server ports?
+File Transfer Protocol
+Secure Shell
+Telnet
+Simple Mail Transfer Protocol
+Domain Name System
+Dynamic Host Confirguration Protocol
+Trivial FIle Transfer Protocol
+Hypertext Transfer Protocol
+Post Office Protocol version 3
+Network Time Protocol
