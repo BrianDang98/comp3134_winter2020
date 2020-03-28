@@ -1,3 +1,3 @@
 # comp3134_winter2020
 
-haha hihi
+Repository for Cyber Security Course
