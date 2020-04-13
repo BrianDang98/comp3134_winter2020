@@ -1,6 +1,5 @@
-<pre> 
-<?php 
-  $file = file_get_contents("storedxss.txt");
-  echo $file ; 
+
+<?php
+$file_contents = readfile( "storedxss.txt" );
+echo  $file_contents;
 ?>
-</pre>

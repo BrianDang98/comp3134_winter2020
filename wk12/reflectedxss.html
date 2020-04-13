@@ -1,20 +1,16 @@
-<h1> Reflected XSS </h1>
-<form id = "form" >
-<input type = "text" name = "input" id = "input" />
-</br>
-<button type = "submit"> Submit </button>
 
+<h1>Thien Phuoc Dang</h1>
+<form onsubmit="display()">
+<input id="name" type="text" name="name">
+<button type="submit" name="submit">Submit</button>
 </form>
+<div class="output">
 
-<div id ="message" >  </div>
+</div>
 <script>
-document.getElementById("form").addEventListener("submit",
-function(event){
+    const display = () => {
         event.preventDefault();
-        var message = document.getElementById("message");
-        var input = document.getElementById("input");
-        console.log(input.value);
-        message.innerHTML = input.value ;
-});
-
- </script>
+        const text = document.getElementById('name').value;
+        document.querySelector(".output").innerHTML = text;
+    }
+</script>
