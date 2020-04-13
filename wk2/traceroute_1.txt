@@ -1,2 +1,0 @@
-traceroute to 138.197.173.222 (138.197.173.222), 30 hops max, 60 byte packets
- 1  lamp-s-1vcpu-1gb-tor1-01 (138.197.173.222)  0.059 ms  0.022 ms  0.021 ms

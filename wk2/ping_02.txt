@@ -1,0 +1,11 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# ping google.com -w 5
+PING google.com (172.217.1.14) 56(84) bytes of data.
+64 bytes from yyz10s14-in-f14.1e100.net (172.217.1.14): icmp_seq=1 ttl=58 time=1.10 ms
+64 bytes from yyz10s14-in-f14.1e100.net (172.217.1.14): icmp_seq=2 ttl=58 time=0.530 ms
+64 bytes from yyz10s14-in-f14.1e100.net (172.217.1.14): icmp_seq=3 ttl=58 time=0.548 ms
+64 bytes from yyz10s14-in-f14.1e100.net (172.217.1.14): icmp_seq=4 ttl=58 time=0.537 ms
+64 bytes from yyz10s14-in-f14.1e100.net (172.217.1.14): icmp_seq=5 ttl=58 time=0.553 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4075ms
+rtt min/avg/max/mdev = 0.530/0.654/1.102/0.224 ms

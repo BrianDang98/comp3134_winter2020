@@ -1,6 +1,0 @@
-https://xd.adobe.com/view/69b51181-07c8-4c54-6c79-a0b74cdba471-1f84/grid
-
-
-https://developer.android.com/reference/android/graphics/drawable/shapes/Shape
-https://medium.com/muhamadjalaludin/how-to-create-user-interface-login-register-with-android-studio-34da847b05b2
-https://developer.android.com/guide/topics/resources/drawable-resource#Shape
