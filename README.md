@@ -3,9 +3,9 @@
 Repository for Cyber Security Course
 
 
-Student ID: 101108909
+# Student ID: 101108909
 
-Droplet IP: 
+# Droplet IP: 
 138.197.140.46 (From Lab2)
 159.203.16.212 (From Lab 8 -Lab 9)
 
