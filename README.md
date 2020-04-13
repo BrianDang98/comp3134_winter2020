@@ -10,4 +10,4 @@ Repository for Cyber Security Course
 138.197.140.46 (From Lab2)
 159.203.16.212 (From Lab 8 -Lab 9)
 
-The reason for changing Droplet ID is that there was some error while working on lab exercises and i had to destroy the old ip to get the new one
+The reason for changing Droplet ID is that there was some errors while working on lab exercises and i had to destroy the old ip to get the new one
